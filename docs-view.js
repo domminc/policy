@@ -31,7 +31,7 @@
       const note = $('save-note');
       if (PF.save.mode() === 'none') {
         note.hidden = false;
-        note.textContent = '이 화면에서는 파일 저장이 허용되지 않아 내려받기가 동작하지 않을 수 있습니다. 저장소의 apps/policy-fund/forms 폴더에서 같은 파일을 받을 수 있습니다.';
+        note.textContent = '이 화면에서는 파일 저장이 허용되지 않아 내려받기가 동작하지 않을 수 있습니다. 일반 웹 브라우저에서 이 페이지를 직접 열면 내려받을 수 있습니다.';
       }
     });
   }

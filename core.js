@@ -149,7 +149,7 @@
     started: '내려받기를 시작했습니다.',
     declined: '저장을 취소했습니다.',
     busy: '다른 저장 확인이 열려 있습니다. 잠시 후 다시 눌러 주세요.',
-    unavailable: '이 화면에서는 파일을 저장할 수 없습니다. 전체 텍스트 복사나 저장소의 apps/policy-fund 폴더를 이용하세요.'
+    unavailable: '이 화면에서는 파일을 저장할 수 없습니다. 전체 텍스트 복사를 이용하거나 일반 웹 브라우저에서 이 페이지를 직접 열어 주세요.'
   };
 
   /** A button that saves a file and reports the outcome next to itself. `getFile` may build the file lazily. */
